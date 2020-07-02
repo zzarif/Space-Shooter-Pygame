@@ -47,7 +47,7 @@ level = 1
 lives = 5
 score = 0
 FPS = 100
-LEVEL = 5
+LEVEL = 10
 
 # other params
 pygame.font.init()
